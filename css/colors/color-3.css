@@ -1,0 +1,197 @@
+.main-navigation {
+	border-top: 2px solid #129369;
+	border-bottom: 2px solid #129369;
+}
+
+.main-navigation a,
+.carousel-nav a {
+	color: #129369;
+}
+
+.main-navigation a:hover {
+	border-top: 2px solid #0fad79;
+	border-bottom: 2px solid #0fad79;
+	color: #0fad79;
+}
+
+.main-navigation a.active {
+	border-top: 2px solid #0fad79;
+	border-bottom: 2px solid #0fad79;
+	color: #0fad79;
+}
+
+.header-section,
+.second-header-section,
+.site-footer {
+	background-color: #1abe8a;
+	background-image: linear-gradient(315deg, #1abe8a 0%, #002715 74%);
+}
+
+.portfolio .work-box,
+.website-roadmap .card {
+	box-shadow: rgba(4, 100, 60, 0.486) 1.95px 1.95px 2.6px;
+	background-color: #9cf0d485;
+}
+
+.about-us,
+.my_language ul li a {
+	background-color: #00c98659;
+	box-shadow: #00c986da 1.95px 1.95px 8px;
+}
+
+.about-info .service-title h5,
+.custom-add .inner-content p span,
+.custom-add .inner-content h4 a,
+.services-details .web-design-details h1,
+.services-details .web-development-details h1,
+.services-details-heading h1,
+.second_title {
+	color: #0ebb81;
+}
+
+.portfolio .ios-toolbar p a {
+	color: #2fd19b;
+}
+
+.progress-details .progress-line,
+.custom-add .inner-content a {
+	background: #0ece8e;
+}
+
+.progress-details {
+	background: #0c835b;
+}
+
+.style-switcher-toggler,
+.testimonial-section .carousel-control-prev,
+.testimonial-section .carousel-control-next,
+.genericon-collapse:before {
+	background-color: #129369;
+}
+
+.carousel-nav {
+	border-bottom: 1px solid #bebebe;
+}
+
+.specs .website-process h1 {
+	color: #129369;
+}
+
+.carousel-nav a:hover {
+	color: #0fad79;
+}
+
+.about-us .about-details p a,
+.carousel-nav a.active {
+	color: #0fad79;
+}
+
+.carousel-nav a.active:before {
+	border-bottom: 1px solid #0fad79;
+}
+
+.text-box a {
+	color: #eee;
+	background: #129369;
+}
+
+.text-box a:hover {
+	color: #129369;
+	background: #eee;
+}
+
+.text-box .second-btn {
+	color: #129369;
+	background: #eee;
+}
+
+.text-box .second-btn:hover {
+	color: #eee;
+	background: #129369;
+}
+
+.class-info h3,
+.class-info p a,
+.testimonial-item h3 {
+	color: #129369;
+}
+
+.work-content .w-more h1 a,
+.w-title a,
+.work-content .portfolio-name a {
+	color: #2fd19b;
+}
+
+.media-29101 .text .category,
+.section-subtitle {
+	color: #129369;
+}
+
+.section-subtitle span:before,
+.section-subtitle span:after {
+	background: #129369;
+}
+
+.media-29101 .text h1,
+.portfolio_details .recent_project_title,
+.services-details .web-design-service-list h1 {
+	background: #12a876;
+	color: #fff;
+	border-left: 4px solid #13dd9a;
+}
+
+.specs .website-process h1 ion-icon {
+	background: #129369;
+}
+
+.about-us .title-background h1,
+.for-web-design span,
+.for-web-development span {
+	color: #129369;
+}
+
+.portfolio .title-background h1,
+.content .text span,
+.testimonial-section .title-background h1 {
+	color: #12b37d;
+}
+
+.testimonial-section .img-box,
+.testimonial-section .decoration-imgs-item,
+.testimonial-section .decoration-circle-item {
+	background: #129369;
+}
+
+.testimonial-section .img-box::before,
+.testimonial-section .img-box::after {
+	border: 1px solid #129369;
+}
+
+.testimonial-section .img-box::before {
+	border-left: 1px solid transparent;
+}
+
+.testimonial-section .img-box::after {
+	border-right: 1px solid transparent;
+}
+
+.ribbon.top-right.ribbon-default>small {
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #129369), color-stop(100%, #129369));
+	background-image: -moz-linear-gradient(top, #129369 0%, #129369 100%);
+	background-image: -webkit-linear-gradient(top, #129369 0%, #129369 100%);
+	background-image: linear-gradient(to bottom, #129369 0%, #129369 100%);
+	background-color: #001c30;
+	-moz-box-shadow: 0 3px 6px -3px #036141;
+	-webkit-box-shadow: 0 3px 6px -3px #036141;
+	box-shadow: 0 3px 6px -3px #036141;
+}
+
+.ribbon.top-right.ribbon-default>small:before,
+.ribbon.top-right.ribbon-default>small:after {
+	border-top: 3px solid #036141;
+}
+
+.custom-add {
+	box-shadow: rgba(0, 165, 82, 0.534) 1.95px 1.95px 2.6px;
+	background: #b4ffd6;
+}
